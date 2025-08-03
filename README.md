@@ -17,7 +17,7 @@
 ### 💻 Tech Stack & Tools
 
 #### **Languages & Frameworks**
-<p align="flex justify-evenly flex-wrap">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
@@ -33,7 +33,7 @@
 </p>
 
 #### **Tools & Platforms**
-<p align=" flex justify-evenly flex-wrap ">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
@@ -52,7 +52,7 @@
 
 ### 📫 Let's Connect
 
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/sandeepaakash">
     <img src="https://github.com/user-attachments/assets/68dad68e-bca4-4e52-acea-049cb3b18c01" alt="LinkedIn" width="40"/>
   </a>
