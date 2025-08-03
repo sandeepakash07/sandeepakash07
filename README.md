@@ -7,5 +7,5 @@ B.E Computer Science and Engineering Graduate
 - I'm looking for Freelancing projects.
 - I'm Open to Work as Fulltime Employee.
 - How to reach me
-<br/>[<img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/68dad68e-bca4-4e52-acea-049cb3b18c01" />](https://www.linkedin.com/in/sandeepaakash) [<img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/b669b753-6337-4aa8-b4f0-7a9a9d9b9998" />](https://www.instagram.com/sandeepakash_) [<img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/980d679e-c53d-4463-ac68-e785e7274cad" />
+<br/>[<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/68dad68e-bca4-4e52-acea-049cb3b18c01" />](https://www.linkedin.com/in/sandeepaakash) [<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b669b753-6337-4aa8-b4f0-7a9a9d9b9998" />](https://www.instagram.com/sandeepakash_) [<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/94a9536c-4644-423d-b181-c8cdb10d0d8d" />
 ](https://www.x.com/sandeepakash_)
